@@ -1,3 +1,9 @@
 Hi,
 Welcome to KJSIEIT
-This lab is for DevOps Lab
+
+
+This lab is for DevOps La
+
+Lab having 3 credits
+
+termwork for this lab is 25
